@@ -8,6 +8,11 @@
   "private": true,
   "dependencies": {
     "iron-elements": "PolymerElements/iron-elements#^1.0.0",
-    "paper-elements": "PolymerElements/paper-elements#^1.0.1"
+    "paper-elements": "PolymerElements/paper-elements#^1.0.1",
+    "core-scaffold": "Polymer/core-scaffold#^0.5",
+    "core-item": "Polymer/core-item#^0.5",
+    "paper-input": "Polymer/paper-input#^0.5",
+    "paper-fab": "Polymer/paper-fab#^0.5"
+    "pubnub-element": "pubnub-element#3.6.7"
   }
 }
